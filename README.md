@@ -1,5 +1,5 @@
 # exercicio_POO
-## Práticas que irá encontrar aqui:
+## Práticas que irá encontrar aqui: 🐍
 - [x] Programação Orientada a Objetos 
 - [x] Abstração 
 - [x] Encapsulamento 
