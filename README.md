@@ -1,5 +1,10 @@
 # exercicio_POO
- Exercício para praticar programação orientada a objetos
+## Práticas que irá encontrar aqui:
+- [x] Programação Orientada a Objetos 
+- [x] Abstração 
+- [x] Encapsulamento 
+- [x] Polimorfismo 
+- [x] Herança
+- [x] Getters e Setters
 
- Para usar ele (Se for apenas para entender o funcionamento)...
- utilize como exemplo o módulo main.py
+Para ver ele funcionando Instale o **Python** na sua máquina 
