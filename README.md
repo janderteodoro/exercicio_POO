@@ -7,4 +7,4 @@
 - [x] Herança
 - [x] Getters e Setters
 
-Para ver ele funcionando Instale o **Python** na sua máquina 
+Para ver ele funcionando, instale o **Python** na sua máquina 
